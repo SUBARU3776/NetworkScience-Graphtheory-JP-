@@ -45,8 +45,7 @@ pip install networkx matplotlib<br>
 スクリプトの実行:<br>
 各章のディレクトリに移動し、Pythonスクリプトを実行します。<br>
 コードをコピーする<br>
-python script_name.py
-<br>
+python script_name.py<br>
 
 データセットの利用:<br>
 提供されているサンプルデータセットを使用して、スクリプトを実行し、ネットワークの構造と特性を探索します。<br>
