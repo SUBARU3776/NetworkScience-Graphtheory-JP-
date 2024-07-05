@@ -40,7 +40,7 @@ Python環境で必要なライブラリ（主にNetworkX、Matplotlibなど）�
 pip install networkx matplotlib<br>
 
 スクリプトの実行:<br>
-各章のディレクトリに移動し、Pythonスクリプトを実行します。
+各章のディレクトリに移動し、Pythonスクリプトを実行します。<br>
 コードをコピーする<br>
 python script_name.py
 
