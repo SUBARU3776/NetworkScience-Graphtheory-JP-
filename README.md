@@ -56,4 +56,66 @@ python script_name.py<br>
 このリポジトリのコンテンツは、MITライセンスのもとで提供されています。<br>
 リポジトリ内のコードおよびドキュメントは、商業目的での使用を禁止し、無断転載を禁じます。<br>
 詳細については、リポジトリ所有者にご連絡ください。<br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This repository is intended for people new to network analysis.<br>
+Using Python, the goal is to deepen students' understanding of basic network theory concepts and learning through hands-on scripting.<br>
 
+Contents<br>
+
+1. Introduction<br>
+Overview and basic flow of network analysis<br>
+Basic operation of Python and Network X<br>
+
+2. Learning terminology while creating graphs<br>
+Basic concepts of graph theory<br>
+
+3. Finding the center of a network (definition of centrality)<br>
+Definition of centrality and centrality indices<br>
+
+4. Finding a path (graph search algorithm)<br>
+Finding the shortest path<br>
+Learn how to find the shortest path<br>
+
+5. Segmentation and extraction (understanding network structure and identifying attributes)<br>
+Finding specific communities and attributes<br>
+
+6. Network Model<br>
+Learn clues to understand real-world networks<br>
+
+7. Structure prediction (link prediction)<br>
+Predicting future structure<br>
+
+8. Network Visualization Analysis<br>
+Learn the importance of network visualization and what to keep in mind<br>
+
+9. Simulation<br>
+Simulate information diffusion from SIR model<br>
+<br>
+<br>
+<br>
+How to run the scripts<br>
+Each chapter directory contains Python scripts and data samples.<br>
+To run the scripts, follow these steps<br>
+<br>
+Install the required libraries:.<br>
+Install the necessary libraries (mainly NetworkX, Matplotlib, etc.) in your Python environment.<br>
+Copy the code<br>
+pip install networkx matplotlib<br>
+
+Run the scripts:.<br>
+Go to each chapter directory and run the Python scripts.<br>
+Copy the code<br>
+python script_name.py<br>
+
+Use the datasets:.<br>
+Using the sample datasets provided, run the scripts to explore the structure and characteristics of the network.<br>
+
+Contributions<br>
+If you are interested in this project and have suggestions for improvements or bugs to report, please submit a pull request.<br>
+
+License<br>
+The contents of this repository are provided under the MIT License.<br>
+Code and documentation in the repository may not be used for commercial purposes and may not be reproduced without permission.<br>
+For more information, please contact the repository owner.<br>
+<br>
+Translated with DeepL.com (free version)<br>
