@@ -61,6 +61,8 @@ python script_name.py<br>
 --------------------------------------------------------------------------------------------------------------------------------<br>
 <br>
 <br>
+I'm sorry
+Script descriptions are basically in Japanese.
 This repository is intended for people new to network analysis.<br>
 Using Python, the goal is to deepen students' understanding of basic network theory concepts and learning through hands-on scripting.<br>
 
