@@ -122,4 +122,4 @@ The contents of this repository are provided under the MIT License.<br>
 Code and documentation in the repository may not be used for commercial purposes and may not be reproduced without permission.<br>
 For more information, please contact the repository owner.<br>
 <br>
-Translated with DeepL.com (free version)<br>
+<br>
