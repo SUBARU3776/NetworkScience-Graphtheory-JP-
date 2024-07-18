@@ -56,7 +56,7 @@ python script_name.py<br>
 このリポジトリのコンテンツは、MITライセンスのもとで提供されています。<br>
 リポジトリ内のコードおよびドキュメントは、商業目的での使用を禁止し、無断転載を禁じます。<br>
 詳細については、リポジトリ所有者にご連絡ください。<br>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 This repository is intended for people new to network analysis.<br>
 Using Python, the goal is to deepen students' understanding of basic network theory concepts and learning through hands-on scripting.<br>
 
