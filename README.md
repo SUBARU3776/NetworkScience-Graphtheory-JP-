@@ -66,7 +66,7 @@ This repository is intended for people new to network analysis.<br>
 Using Python, the goal is to deepen students' understanding of basic network theory concepts and learning through hands-on scripting.<br>
 <br>
 Contents<br>
-<br>
+
 1. Introduction<br>
 Overview and basic flow of network analysis<br>
 Basic operation of Python and Network X<br>
