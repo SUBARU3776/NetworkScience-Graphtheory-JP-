@@ -26,10 +26,10 @@ Pythonを使用して、基本的なネットワーク理論の概念を理解�
 ・将来の構造を予測する<br>
 
 8. ネットワークの可視化による分析<br>
-・ネットワークの可視化の重要性と注意点を学ぶ<br>
+・可視化の重要性と注意点を学ぶ<br>
 
 9. シミュレーション<br>
-・SIRモデルから情報の拡散をシミュレートする<br>
+・情報の拡散をシミュレートする<br>
 <br>
 <br>
 スクリプトの実行方法<br>
@@ -94,7 +94,7 @@ Predicting future structure<br>
 Learn the importance of network visualization and what to keep in mind<br>
 
 9. Simulation<br>
-Simulate information diffusion from SIR model<br>
+Simulate information diffusion <br>
 <br>
 <br>
 <br>
