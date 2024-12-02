@@ -36,17 +36,17 @@ Pythonを使用して、基本的なネットワーク理論の概念を理解�
 各章のディレクトリには、Pythonスクリプトとデータサンプルが含まれています。<br>
 スクリプトを実行するには、以下の手順に従ってください。<br>
 <br>
-必要なライブラリのインストール:<br>
+必要なライブラリのインストール<br>
 Python環境で必要なライブラリ（主にNetworkX、Matplotlibなど）をインストールしてください。<br>
 コードをコピーする<br>
 pip install networkx matplotlib<br>
 <br>
-スクリプトの実行:<br>
+スクリプトの実行<br>
 各章のディレクトリに移動し、Pythonスクリプトを実行します。<br>
 コードをコピーする<br>
 python script_name.py<br>
 <br>
-データセットの利用:<br>
+データセットの利用<br>
 提供されているサンプルデータセットを使用して、スクリプトを実行し、ネットワークの構造と特性を探索します。<br>
 <br>
 貢献<br>
@@ -102,17 +102,17 @@ How to run the scripts<br>
 Each chapter directory contains Python scripts and data samples.<br>
 To run the scripts, follow these steps<br>
 <br>
-Install the required libraries:.<br>
+Install the required libraries.<br>
 Install the necessary libraries (mainly NetworkX, Matplotlib, etc.) in your Python environment.<br>
 Copy the code<br>
 pip install networkx matplotlib<br>
 
-Run the scripts:.<br>
+Run the scripts.<br>
 Go to each chapter directory and run the Python scripts.<br>
 Copy the code<br>
 python script_name.py<br>
 
-Use the datasets:.<br>
+Use the datasets.<br>
 Using the sample datasets provided, run the scripts to explore the structure and characteristics of the network.<br>
 
 Contributions<br>
